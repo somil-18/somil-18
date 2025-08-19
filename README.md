@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Somil Dogra <br>🎓 B.Tech CSE (Data Science) Student<br>💻 Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Flask | Web Scraping 📊 
+👋 Hi, I’m Somil Dogra <br>🎓 B.Tech CSE (Data Science) Student<br>💻 Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Flask | Web Scraping 
 
 
 ## 🌐 Socials:
