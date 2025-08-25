@@ -1,18 +1,68 @@
-# 💫 About Me:
-👋 Hi, I’m Somil Dogra <br>🎓 B.Tech CSE (Data Science) Student<br>💻 Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Flask | Web Scraping 
+<div align="center">
 
+# 🌟 Welcome to Somil Dogra's Profile 🌟
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-dogra-463435329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+<p><em>B.Tech CSE (Data Science) Student<br>💻 Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Flask | Web Scraping </em></p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somil-18&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=somil-18&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somil-18&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&color=ff69b4"> <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&color=ff69b4">
+
+### ⚙️ Backend
+
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&color=4169e1"> <img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500">
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/somil-dogra-463435329/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** dograsomil03@gmail.com
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
