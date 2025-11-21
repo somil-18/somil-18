@@ -1,18 +1,19 @@
-# 💫 About Me:
-Hi I am Somil Dogra B.Tech CSE (Data Science) Student<br>Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | Flask | Web Scraping
+<h1 align="center">Hi 👋, I'm Somil Dogra</h1>
+<h3 align="center">I’m working with GenAI, Python, and SQL to build practical data-driven solutions, focusing on automation, clean data handling, and meaningful insights. Python helps me streamline workflows and prototype new ideas quickly, while SQL lets me manage and understand structured data with precision. I combine both to explore real datasets, pull out what actually matters, and turn it into something useful. Every project I take on is part of a steady effort to improve through hands-on work and real-world experimentation.</h3>
 
+- 📫 How to reach me **dograsomil03@gmail.com**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/somil-dogra-463435329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dograsomil03@gmail.com) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/somil-dogra-463435329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somil-dogra-463435329" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dograsomil03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dograsomil03" height="30" width="40" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somil-18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=somil-18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somil-18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somil-18&show_icons=true&locale=en&layout=compact" alt="somil-18" /></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somil-18&show_icons=true&locale=en" alt="somil-18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somil-18&" alt="somil-18" /></p>
