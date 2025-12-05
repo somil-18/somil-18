@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I’m currently working on GenAI, Python automation, and data analysis to create useful and working solutions.<br><br>🤝 I’m looking to collaborate on Projects that use data and AI to build real-world applications with clear outcomes.<br><br>📈 I’m currently learning Advanced Python, LLM/RAG tools, and how to deploy AI-based applications for real use.<br>
+🧠 Architecting solutions using GenAI, Python automation, and data analytics. 🤝 Interested in building robust, data-centric AI applications. 📉 Mastering Advanced Python, RAG tools, and end-to-end deployment strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-dogra-463435329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dograsomil03@gmail.com) 
