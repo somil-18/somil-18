@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Architecting solutions using GenAI, Python automation, and data analytics. 🤝 Interested in building robust, data-centric AI applications. 📉 Mastering Advanced Python, RAG tools, and end-to-end deployment strategies.
+🧠 Architecting solutions using GenAI, Python automation, and data analytics. <br> <br>🤝 Interested in building robust, data-centric AI applications.<br> <br> 📉 Mastering Advanced Python, RAG tools, and end-to-end deployment strategies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-dogra-463435329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dograsomil03@gmail.com) 
